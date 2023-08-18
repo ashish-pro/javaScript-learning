@@ -44,6 +44,3 @@ When to Use var, let, or const?
 
 5. Only use var if you MUST support old browsers.
 */
-
-
-
